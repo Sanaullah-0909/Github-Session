@@ -1,2 +1,3 @@
 # Github-Session
-To understand the Github 
+A website that help to understand the Git & Github.
+Git is system application.
